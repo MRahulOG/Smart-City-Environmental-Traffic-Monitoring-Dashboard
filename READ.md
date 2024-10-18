@@ -4,6 +4,7 @@ Overview:
 
 This Power BI dashboard provides an overview of key environmental and traffic metrics for Melbourne's smart city initiative. The dashboard visualizes air quality, vehicle count, and energy consumption across various city locations, enabling city planners to make data-driven decisions to improve urban living.
 
+
 Key Insights
 
 -Air Quality: Displays the average air quality index (AQI) along with PM10 and PM2.5 levels across different city locations.
@@ -14,6 +15,7 @@ Key Insights
 
 -Interactive Map: A map visual shows air quality across Melbourne locations, allowing planners to pinpoint areas with pollution concerns.
 
+
 How to Use
 
 -Download the .pbix file from the repository.
@@ -21,6 +23,7 @@ How to Use
 -Open the file using Power BI Desktop.
 
 -Explore the interactive visuals, filters, and map to uncover key patterns and insights for city planning.
+
 
 Dataset Details
 
