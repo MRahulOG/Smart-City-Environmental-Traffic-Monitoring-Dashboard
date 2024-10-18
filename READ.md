@@ -7,14 +7,19 @@ This Power BI dashboard provides an overview of key environmental and traffic me
 Key Insights
 
 -Air Quality: Displays the average air quality index (AQI) along with PM10 and PM2.5 levels across different city locations.
+
 -Traffic Data: Shows vehicle counts by location, allowing for traffic flow analysis.
+
 -Energy Consumption: Provides insights into total energy consumption and peak load by location, helping with energy efficiency planning.
+
 -Interactive Map: A map visual shows air quality across Melbourne locations, allowing planners to pinpoint areas with pollution concerns.
 
 How to Use
 
 -Download the .pbix file from the repository.
+
 -Open the file using Power BI Desktop.
+
 -Explore the interactive visuals, filters, and map to uncover key patterns and insights for city planning.
 
 Dataset Details
